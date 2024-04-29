@@ -1,0 +1,31 @@
+<!-- ICON
+	<div>Iconos diseñados por <a href="https://www.flaticon.es/autores/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
+-->
+<!-- BACKGROUND LOGIN
+	<span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Foto de </font></font><a href="https://unsplash.com/@iabzd?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">iabzd</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> en </font></font><a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Unsplash</font></font></a></span>
+-->
+<!-- BACKGROUND CREATE ACCOUNT
+	<span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Foto de </font></font><a href="https://unsplash.com/@mikitayo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mikita Yo</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> en </font></font><a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Unsplash</font></font></a></span>
+-->
+<!-- BACKGROUND INDEX
+	<span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Foto de </font></font><a href="https://unsplash.com/@matthewhenry?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Matthew Henry</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> en </font></font><a href="https://unsplash.com/collections/219941/architecture%2C-buildings%2C-spaces?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Unsplash</font></font></a></span>
+-->
+<!-- BACKGROUND CONTACT US
+    Foto de <a href="https://unsplash.com/@seanpollock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sean Pollock</a> en <a href="https://unsplash.com/es/s/fotos/edificios?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+-->
+
+LOGIN
+https://images.unsplash.com/photo-1612561869417-00aff351cc26?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80
+	https://unsplash.com/es/fotos/XMIshqrZ7Hc
+
+CREATE ACCOUNT
+https://images.unsplash.com/photo-1612723354138-da7772774cd3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80
+	https://unsplash.com/es/fotos/QgriCuwg8Tk
+	
+INDEX
+https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+	https://unsplash.com/es/fotos/VviFtDJakYk
+
+CONTACT US
+https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+	https://unsplash.com/es/fotos/PhYq704ffdA
